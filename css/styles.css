@@ -9,6 +9,8 @@ hr {
   width: 10%
 }
 h1{
+  font-style: italic;
+  font: serif;
   color: #1F4690;
 }
 h4{
