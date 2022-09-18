@@ -1,5 +1,6 @@
 body {
   background-color: #E8F9FD;
+  font-family: monospace;
 }
 hr {
   border-style: none;
@@ -10,7 +11,6 @@ hr {
 }
 h1{
   color: #1F4690;
- font-family: monospace;
 }
 h4{
   color: #1F4690;
