@@ -5,12 +5,12 @@ hr {
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
-  border-width: 10px;
+  border-width: 20px;
   width: 10%
 }
 h1{
   color: #1F4690;
- font-family: monospace;
+ font-family: fantasy;
 }
 h4{
   color: #1F4690;
