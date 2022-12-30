@@ -10,14 +10,11 @@ hr {
 }
 h1{
   color: #1F4690;
+<<<<<<< HEAD
  font-family: fantasy;
+=======
+>>>>>>> 85de1ccf4bed8cba383228f0ce19e4fb0ee82266
 }
 h4{
   color: #1F4690;
-}
-button {
- color: red;
-}
-marquee{
-  color: #FFFF00;
 }
